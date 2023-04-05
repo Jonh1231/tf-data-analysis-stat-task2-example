@@ -1,3 +1,11 @@
+import pandas as pd 
+import numpy as np 
+import math 
+ 
+import scipy.stats 
+ 
+ 
+chat_id = 5493901342 # Ваш chat ID, не меняйте название переменной
 def solution2(p: float, x: np.array) -> tuple: 
     # Измените код этой функции 
     # Это будет вашим решением 
